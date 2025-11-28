@@ -1,5 +1,6 @@
 # LaTeX-love
 LaTeX for beginners course.
+
 -Bu kursta "LaTeX atölyesi" adı altındaki program için;
 
 ## LaTeX yazmak için kullanılabilinilecek editörler:
