@@ -1,5 +1,11 @@
 # LaTeX-love
-LaTeX for beginners course
+LaTeX for beginners course.
+-Bu kursta "LaTeX atölyesi" adı altındaki program için;
+
+## LaTeX yazmak için kullanılabilinilecek editörler:
+- https://www.overleaf.com/ (online editör)
+- https://www.tug.org/texlive/ texlive (buradan kendi işletim sisteminize uygun texi indirebilirsiniz.)
+- https://miktex.org/ miktex
 
 ## LateX için başrurabileceğiniz kaynaklar:
 - Türkçe
@@ -8,7 +14,7 @@ LaTeX for beginners course
 - İngilizce
   - https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols
   - https://ftp.cc.uoc.gr/mirrors/CTAN/info/symbols/comprehensive/symbols-a4.pdf
-  - 
+    
 ## LaTeX jimnastiği için:  
 - https://matkafasi.com/  
 - https://mathoverflow.net/ 
